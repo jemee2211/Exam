@@ -16,6 +16,7 @@ main(){
 	printf("Enter Value:");
 	scanf("%d",&a[i][j]);
 }
+
 }
     
     if(i==j){
