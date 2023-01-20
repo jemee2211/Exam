@@ -17,8 +17,12 @@ main(){
 	scanf("%d",&a[i][j]);
 }
 }
-
+    for(i=0; i<n; i++){
+	
     sum+=a[i];
      printf("%d",sum);
+ }
+
+
 }
 
