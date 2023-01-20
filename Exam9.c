@@ -4,7 +4,7 @@ main(){
 	char i,j;
 	for(i='A'; i<='E'; i++){
 	
-	for(j='A'; j<=i; j++){
+	for(j=i; j<='O'; j++){
 			
 			printf("%c",j);
 		}
